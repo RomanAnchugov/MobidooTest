@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobidooTest</string>
+    <string name="news">Новости</string>
+    <string name="football">Футбол</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="volleyball">Волейбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="splash_text">MobidooNews</string>
+</resources>
