@@ -9,7 +9,11 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2cfd7a1-e142-4e6b-b115-c68deef8fc96" name="Default" comment="" />
+    <list default="true" id="f2cfd7a1-e142-4e6b-b115-c68deef8fc96" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/MainActivity.java" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +38,7 @@
       <file leaf-file-name="NewsAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/news/NewsAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="799">
               <caret line="239" column="49" lean-forward="false" selection-start-line="239" selection-start-column="49" selection-end-line="239" selection-end-column="49" />
               <folding>
                 <element signature="e#1666#1674#0" expanded="false" />
@@ -52,7 +56,7 @@
       <file leaf-file-name="NewsPresenter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/news/NewsPresenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="357">
               <caret line="35" column="45" lean-forward="false" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
               <folding>
                 <element signature="e#827#828#0" expanded="true" />
@@ -69,9 +73,25 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="e#4307#4346#0" expanded="true" />
+                <element signature="e#4476#6105#0" expanded="true" />
+                <element signature="e#4850#4889#0" expanded="true" />
+                <element signature="e#5098#5141#0" expanded="true" />
+                <element signature="e#5356#5401#0" expanded="true" />
+                <element signature="e#5618#5663#0" expanded="true" />
+                <element signature="e#5875#5916#0" expanded="true" />
+                <element signature="e#6104#6105#0" expanded="true" />
+                <element signature="e#6713#6752#0" expanded="true" />
+                <element signature="e#7243#7282#0" expanded="true" />
+                <element signature="e#7578#7617#0" expanded="true" />
+                <element signature="e#7732#7775#0" expanded="true" />
+                <element signature="e#7896#7941#0" expanded="true" />
+                <element signature="e#8064#8109#0" expanded="true" />
+                <element signature="e#8228#8269#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,7 +99,7 @@
       <file leaf-file-name="MainActivityPresenter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/main/MainActivityPresenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="510">
               <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
               <folding>
                 <element signature="e#950#951#0" expanded="true" />
@@ -92,7 +112,7 @@
       <file leaf-file-name="MainActivityModel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/main/MainActivityModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
+            <state relative-caret-position="816">
               <caret line="61" column="40" lean-forward="false" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
               <folding />
             </state>
@@ -2238,9 +2258,9 @@
         <option value="$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/main/MainActivityPresenter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/ui/NewsFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/ui/WebViewFragment.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_web_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/main/MainActivityModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2298,8 +2318,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
@@ -2572,6 +2592,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2659,9 +2680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2781,9 +2799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2799,62 +2814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
-          <folding>
-            <marker date="1513345319875" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1513345319875" expanded="false" signature="200:211" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="247:253" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="300:311" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="347:353" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="388:399" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="435:441" ph=" }" />
-            <marker date="1513345319875" expanded="true" signature="504:556" ph="{...}" />
-            <marker date="1513345319875" expanded="false" signature="600:611" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="647:653" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="699:710" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="746:752" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="803:814" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="850:856" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="898:909" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="945:951" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="1001:1012" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="1048:1054" ph=" }" />
-            <marker date="1513345319875" expanded="true" signature="1117:1169" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="1240:1292" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="1375:1427" ph="{...}" />
-            <marker date="1513345319875" expanded="false" signature="1470:1481" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="1517:1523" ph=" }" />
-            <marker date="1513345319875" expanded="true" signature="1592:1644" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="1727:1779" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="1848:1900" ph="{...}" />
-            <marker date="1513345319875" expanded="false" signature="1957:1968" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="2004:2010" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="2061:2072" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="2108:2114" ph=" }" />
-            <marker date="1513345319875" expanded="true" signature="2180:2232" ph="{...}" />
-            <marker date="1513345319875" expanded="false" signature="2283:2294" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="2330:2336" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="2389:2400" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="2436:2442" ph=" }" />
-            <marker date="1513345319875" expanded="true" signature="2521:2573" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="2652:2704" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="2781:2833" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="2904:2956" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="3022:3074" ph="{...}" />
-            <marker date="1513345319875" expanded="false" signature="3122:3133" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="3169:3175" ph=" }" />
-            <marker date="1513345319875" expanded="true" signature="3239:3291" ph="{...}" />
-            <marker date="1513345319875" expanded="true" signature="3356:3408" ph="{...}" />
-            <marker date="1513345319875" expanded="false" signature="3456:3467" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="3503:3509" ph=" }" />
-            <marker date="1513345319875" expanded="true" signature="3573:3625" ph="{...}" />
-            <marker date="1513345319875" expanded="false" signature="3662:3673" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="3709:3715" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="3770:3781" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="3817:3823" ph=" }" />
-            <marker date="1513345319875" expanded="false" signature="3853:3864" ph=" { " />
-            <marker date="1513345319875" expanded="false" signature="3900:3906" ph=" }" />
-            <marker date="1513345319875" expanded="true" signature="3938:3990" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2957,7 +2916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3016,7 +2974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3030,7 +2987,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/news/NewsPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="357">
           <caret line="35" column="45" lean-forward="false" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
           <folding>
             <element signature="e#827#828#0" expanded="true" />
@@ -3045,7 +3002,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/news/NewsAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="799">
           <caret line="239" column="49" lean-forward="false" selection-start-line="239" selection-start-column="49" selection-end-line="239" selection-end-column="49" />
           <folding>
             <element signature="e#1666#1674#0" expanded="false" />
@@ -3097,7 +3054,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/main/MainActivityModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
+        <state relative-caret-position="816">
           <caret line="61" column="40" lean-forward="false" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
           <folding />
         </state>
@@ -3107,13 +3064,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/mvp/main/MainActivityPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="510">
           <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
           <folding>
             <element signature="e#950#951#0" expanded="true" />
@@ -3124,9 +3080,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/modidootest/romananchugov/ru/mobidootest/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="340">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#4307#4346#0" expanded="true" />
+            <element signature="e#4476#6105#0" expanded="true" />
+            <element signature="e#4850#4889#0" expanded="true" />
+            <element signature="e#5098#5141#0" expanded="true" />
+            <element signature="e#5356#5401#0" expanded="true" />
+            <element signature="e#5618#5663#0" expanded="true" />
+            <element signature="e#5875#5916#0" expanded="true" />
+            <element signature="e#6104#6105#0" expanded="true" />
+            <element signature="e#6713#6752#0" expanded="true" />
+            <element signature="e#7243#7282#0" expanded="true" />
+            <element signature="e#7578#7617#0" expanded="true" />
+            <element signature="e#7732#7775#0" expanded="true" />
+            <element signature="e#7896#7941#0" expanded="true" />
+            <element signature="e#8064#8109#0" expanded="true" />
+            <element signature="e#8228#8269#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

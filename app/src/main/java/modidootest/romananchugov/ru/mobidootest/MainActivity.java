@@ -47,6 +47,7 @@ public class MainActivity extends MvpAppCompatActivity implements MainActivityVi
     @BindView(R.id.drawerLayout)
     DrawerLayout drawerLayout;
     @BindView(R.id.toolbar)
+
     Toolbar toolbar;
 
     @Inject
